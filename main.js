@@ -1,5 +1,4 @@
 var ctx = document.getElementById("myChart").getContext('2d');
-const data = [2, 4, 5, 6, 5, 3, 6, 8, 9]
 
 var myLineChart = new Chart(ctx, {
   type: 'line',
