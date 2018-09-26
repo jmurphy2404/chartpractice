@@ -39,3 +39,6 @@ var myLineChart = new Chart(ctx, {
     }
   }
 });
+
+
+//othre charts: donut style, two bar graphs
